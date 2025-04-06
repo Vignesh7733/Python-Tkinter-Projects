@@ -9,8 +9,8 @@ Tkinter
 ## Machine Learning Model
 K-Nearest Neighbors (KNN)
 ## Libraries Used
-Joblib – For loading the trained ML model
-Tkinter – For the graphical user interface
+.Joblib – For loading the trained ML model
+.Tkinter – For the graphical user interface
 Messagebox – For displaying results and alerts
 ## Methodology
 Trained the KNN model with apple quality data.
